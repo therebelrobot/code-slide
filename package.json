@@ -1,0 +1,31 @@
+{
+  "name": "code-slide",
+  "version": "0.0.1",
+  "description": "Present code with style - without the React cruft. WIP",
+  "main": "code-slide.js",
+  "scripts": {
+    "test": "tap ./*.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/code-slide.git"
+  },
+  "keywords": [
+    "code",
+    "present",
+    "presentation",
+    "slide",
+    "workshop",
+    "teach",
+    "teaching",
+    "slides",
+    "class",
+    "school"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/code-slide/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/code-slide#readme"
+}
